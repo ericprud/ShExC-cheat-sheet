@@ -1,2 +1,2 @@
 # ShExC-cheat-sheet
-summary of ShExC syntax and semantics
+A summary of ShExC syntax and semantics
